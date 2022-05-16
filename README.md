@@ -18,10 +18,27 @@
 </p>
 
 
-<h3>Requirements 📝</h3>
+<h3>Requirements</h3>
 
 - FFmpeg
 - Python 3.10.0
 - [NodeJS](https://nodesource.com/)
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 - [MongoDB](https://cloud.mongodb.com/)
+
+
+<h3>Commands List</h3>
+
+COMMAND | FUNCTION
+:--- | :---
+` /start` | start the bot in pm
+`/play`| start playing music
+`/mute` | mute playing music
+`/unmute` | unmute muted music
+`/end`| end or stop playing music
+`/skip`| skip the current song
+`/search`| search songs from YouTube
+` /broadcast` | broadcast massege through bot
+`/gcast`| broadcast massege with pin feature
+`/restart` | restart the bot
+
