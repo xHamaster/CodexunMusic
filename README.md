@@ -18,7 +18,9 @@
 </p>
 
 
-<h3>Requirements</h3>
+<h3>
+
+## Requirements
 
 - FFmpeg
 - Python 3.10.0
@@ -27,7 +29,7 @@
 - [MongoDB](https://cloud.mongodb.com/)
 
 
-<h3>Commands List</h3>
+## Commands List
 
 #### For all in group
 - `/play <reply/url>` - Youtube url
@@ -59,7 +61,7 @@
 - `1` Fork this repo
 - `2` Change the url of your forked repo with the button given below
 - `3` Then click on the given button and start deployment process
-- `4` Suggesting to select Europe server to play lag-free voice
+- `4` Suggesting to select Europe server to play lag-free music
 <p align="center"><a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank"/></a></p>
 
 
