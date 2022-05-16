@@ -1,2 +1,3 @@
-# CodexunMusic
-Telegram Music Bot, bot allows you to play music on telegram groups voice chat.
+<p align="center">
+    <br><b>Codexun Music Bot</b><br>
+</p>
