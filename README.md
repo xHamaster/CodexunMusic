@@ -1,7 +1,7 @@
 <h2 align="centre">Codexun Music Bot</h2>
 
 <p align="center">
-    <br><b>Telegram music bot which can helps you to play music on your groups voice chat.</b><br>
+    <br><b>Telegram music bot which can helps to play music on groups voice chat.</b><br>
 </p>
 
 <p align="center">
