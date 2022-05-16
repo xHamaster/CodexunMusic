@@ -52,3 +52,14 @@
 - `/broadcast <text>` - Broadcast to groups (without pinned)
 - `/exec <code>` - Excute a code
 - `/userbotleaveall` - remove assistant of all groups
+
+## Heroku Deployment
+
+##### Follow Given
+- `1` Fork this repo
+- `2` Change the url of your forked repo with the button given below
+- `3` Then click on the given button and start deployment process
+- `4` Suggesting to select Europe server to play lag-free voice
+<p align="center"><a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank"/></a></p>
+
+
