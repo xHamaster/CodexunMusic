@@ -35,10 +35,10 @@ COMMAND | FUNCTION
 `/play`| start playing music
 `/mute` | mute playing music
 `/unmute` | unmute muted music
-`/end`| end or stop playing music
-`/skip`| skip the current song
+`/end`| end playing music
+`/skip`| skip current song
 `/search`| search songs from YouTube
 ` /broadcast` | broadcast massege through bot
 `/gcast`| broadcast massege with pin feature
-`/restart` | restart the bot
+`/restart` | restart the bot from server
 
